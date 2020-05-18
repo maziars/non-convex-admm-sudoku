@@ -1,4 +1,4 @@
-# non-convex-admm-sudoku
+# Non-convex ADMM for solving Sudoku
 This repo contains convex and non-convex admm implementations for solving 9x9 sudokus (in python and matlab). 
 
 Note that despite the fact that this is a greedy approach, it does relatively well at solving not deep sudoku problems. This is an interesting phenomena. It is interesting to figure out which kind of sudokus are solvable/not solvable by this method and why.
