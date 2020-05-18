@@ -7,4 +7,4 @@ The MATLAB implementation is much faster due to the efficiancy of matrix computa
 
 For the examples of how to give the input to the python implementation, see the end of the .py file. The MATLAB code takes in an instance that is a 9x9 matrix where the hidden values are replaced with zeros.
 
-I know that the codes are not well cleaned. I will try to clean them up further in the near future :-)
+I know that the codes are not well cleaned. I will try to clean them up further as soon as I get the time ;-)
